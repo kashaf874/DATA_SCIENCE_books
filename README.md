@@ -1,5 +1,7 @@
 # DATA_SCIENCE_books
-Hey Developer!
-You Love to read?
-if yes this repo is for you cause-
+
+## Hey Developer!
+_You Love to read?
+
+   if yes this repo is for you cause-
 I love reading and Exploring new things and here is beauty of data science you are looking for ;) !! 
